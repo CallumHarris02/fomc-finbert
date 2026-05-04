@@ -2,8 +2,6 @@
 
 Fine-tuning a transformer language model on 30 years of Federal Open Market Committee meeting minutes to predict the next rate decision (hike, hold, cut), then diagnosing why the model fails on the 2022–2026 tightening cycle.
 
-This was my coursework for Advanced Machine Learning in Finance at UCL (MSc Computational Finance, 2025–2026). Final grade: 79.5% (Distinction).
-
 📄 **[Full report (PDF)](./report.pdf)** &nbsp;·&nbsp; 📓 **[Notebook](./full_code.ipynb)**
 
 ---
